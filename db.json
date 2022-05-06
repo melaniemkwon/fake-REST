@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is the stream",
+      "id": 1
+    },
+    {
+      "description": "4v4 battle royal with Mario, Luigi, Peach, Yoshi",
+      "title": "Mario Party Gamepley",
+      "id": 2
+    },
+    {
+      "title": "i EDITED a stream",
+      "description": "this is STILL mine!",
+      "id": 3
+    },
+    {
+      "title": "test PATCH",
+      "description": "did this work???",
+      "userId": "108810794357843919752",
+      "id": 5
+    },
+    {
+      "title": "asdfsfdsdf",
+      "description": "sdfasdfsdfsdfa",
+      "userId": "108810794357843919752",
+      "id": 6
+    }
+  ]
+}
